@@ -1,6 +1,6 @@
 # 🎬 IMDb Movie Overview Sentiment Analyzer
 
-This is a lightweight web application built with Python and Flask that performs basic sentiment analysis on movie overviews from the IMDb Top 1000 dataset. It classifies each description into a general sentiment — positive, negative, or neutral — based on the presence of specific keywords.
+This is a lightweight web application built with Python and Flask that performs basic sentiment analysis on movie overviews from the IMDb Top 1000 dataset. It classifies each description into a general sentiment; positive, negative, or neutral based on the presence of specific keywords.
 
 ---
 
