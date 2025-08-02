@@ -29,5 +29,3 @@ This can serve as an introductory-level project for students learning about Flas
 - Python 3.7+
 - Flask
 
-## 🗂 Project Structure
-
